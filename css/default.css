@@ -1,0 +1,160 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  background-color: #efefef;
+}
+a:link {
+  color: #000000; /* Цвет ссылок */
+  text-shadow: 0px 1px 2px #CCC;
+  padding: 2px; /* Поля вокруг текста */ 
+}
+a:visited {
+  color: #333333; /* Цвет ссылок */
+}
+a:hover {
+  text-shadow: inset 0px 1px 2px #fff; 
+  color: #1f1f1f; /* Цвет ссылки */ 
+} 
+
+#map-canvas, #map_canvas {
+  
+  margin: auto;
+  height: 50%;
+  width: 50%;
+}
+
+@media print {
+  html, body {
+    height: auto;
+  }
+
+  #map-canvas, #map_canvas {
+    height: 650px;
+  }
+}
+
+#panel {
+  position: absolute;
+  top: 5px;
+  left: 50%;
+  margin-left: -180px;
+  z-index: 5;
+  background-color: #fff;
+  padding: 5px;
+  border: 1px solid #999;
+}
+#my_room{
+  margin: auto;
+  width:90%;
+  padding: 10px;
+  padding-left: 30px;
+  font-family: Verdana;
+  font-size:18pt;
+  color: #fff;
+  background-color: #6DBDD6;
+  text-shadow: 0px 1px 1px #000;
+  filter: drop-shadow(0 5px 20px black);
+    -webkit-filter: drop-shadow(0 5px 20px black);
+    -moz-filter: drop-shadow(0 5px 20px black);
+  border-radius: 0 0 10px 10px;
+    -moz-border-radius: 0 0 10px 10px;
+    -webkit-border-radius: 0 0 10px 10px;
+  background: rgb(197,222,234); /* Old browsers */
+  background: -moz-linear-gradient(top,  rgba(197,222,234,1) 0%, rgba(138,187,215,1) 31%, rgba(6,109,171,1) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(197,222,234,1)), color-stop(31%,rgba(138,187,215,1)), color-stop(100%,rgba(6,109,171,1))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  rgba(197,222,234,1) 0%,rgba(138,187,215,1) 31%,rgba(6,109,171,1) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  rgba(197,222,234,1) 0%,rgba(138,187,215,1) 31%,rgba(6,109,171,1) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  rgba(197,222,234,1) 0%,rgba(138,187,215,1) 31%,rgba(6,109,171,1) 100%); /* IE10+ */
+  background: linear-gradient(to bottom,  rgba(197,222,234,1) 0%,rgba(138,187,215,1) 31%,rgba(6,109,171,1) 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c5deea', endColorstr='#066dab',GradientType=0 ); /* IE6-9 */
+
+
+}
+#left {
+  height: 100%;
+  float: left; 
+  background-color: #efefef;
+  margin-left: 5%; 
+}
+#rooms_list_container{
+  padding: 10px;
+  padding-bottom: 10px;
+  font-size: 12px;
+  font-family:Verdana; 
+  
+  width: 200px;
+  background-color: #95cfe1;
+  color: #000;
+  text-shadow: 0px 1px 2px #CCC;
+    
+  border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+  filter: drop-shadow(2px 2px 5px gray);
+    -webkit-filter: drop-shadow(2px 2px 5px gray);
+    -moz-filter: drop-shadow(2px 2px 5px gray);
+    
+}
+#test_rooms_list{
+  padding: 10px;
+  padding-top: 10px;
+  font-family:Verdana; 
+  font-size: 12px;
+  width: 200px;
+  background-color: #a9d8e7;
+
+  color: #000;
+  text-shadow: 0px 1px 2px #CCC;
+  border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+  filter: drop-shadow(2px 2px 5px gray);
+    -webkit-filter: drop-shadow(2px 2px 5px gray);
+    -moz-filter: drop-shadow(2px 2px 5px gray);
+}
+textarea {
+    width:200px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    }
+
+#videos {
+  margin: auto;
+}
+#localVideo {
+  position: relative; 
+  width: 200px; 
+  padding: 10px;
+  border: 5px;
+  border-radius: 8px;
+  transform: rotateY(180deg);
+    -webkit-transform:rotateY(180deg); /* Safari and Chrome */
+    -moz-transform:rotateY(180deg); /* Firefox */
+  filter: drop-shadow(2px 2px 10px #95cfe1);
+    -webkit-filter: drop-shadow(2px 2px 10px #95cfe1);
+    -moz-filter: drop-shadow(2px 2px 10px #95cfe1);
+        
+        }
+
+    #localVideo:hover {
+      -webkit-animation-name: testAnim;
+       -webkit-animation-duration: 100ms;
+       -webkit-animation-iteration-count: 0;
+       -webkit-animation-direction: alternate;
+       -webkit-animation-timing-function: ease-out;
+       -webkit-animation-fill-mode: forwards;
+       -webkit-animation-delay: 0s;
+    }
+
+#my_local_video {
+  border-radius: 8px;
+}
+#remoteVideo {
+  padding-left: 50px;
+  margin: auto;
+}

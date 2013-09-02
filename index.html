@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta name='keywords' content='WebRTC, HTML5, JavaScript' />
+<meta name='description' content='Awesome Networking Opportunities Video chat app' />
+<meta name='viewport' content='width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1'>
+<link href="css/default.css" rel="stylesheet">
+	<style>
+		@import "http://ajax.googleapis.com/ajax/libs/dojo/1.7.0/dojo/resources/dojo.css";
+		@import "http://ajax.googleapis.com/ajax/libs/dojo/1.7.0/dijit/themes/claro/claro.css";
+		
+		@-webkit-keyframes testAnim {
+			0% {
+				width: 200px; 
+			}
+			100% {
+				width: 230px; 
+			}
+		}
+	</style>
+
+<base target='_blank'>
+
+<title>Awesome Networking Opportunities</title>
+
+<!-- <link rel='stylesheet' href='css/main.css' /> -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25208829-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ?  'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=true"></script>
+</head>
+
+<body>
+
+<div id='container'>
+	
+	<div id='my_room'>My room: - </div>
+	<div id='left'>
+		<div id='my_local_video'>
+			<video id='localVideo' autoplay muted ></video>
+		</div>
+		<div id='rooms_list_container'>
+			Available rooms:<div id='rooms_list'></div>
+		</div><br>
+		<div id='test_rooms_list'>TEST Available rooms:<br>
+		</div><br>
+		<div id='textareas'>
+			<textarea id="dataChannelReceive" disabled></textarea><br>
+      <textarea id="dataChannelSend" disabled placeholder="Press Start, enter some text, then press Send."></textarea>
+        
+  	</div>
+
+  <button id="sendButton" disabled>Send</button>
+  </div>
+
+  <div id='videos'>
+    
+    <video id='remoteVideo' autoplay></video>
+    
+  </div>
+  <br>
+  
+</div>
+<script src='/socket.io/socket.io.js'></script>
+<script src='js/lib/adapter.js'></script>
+<script src='js/main.js'></script>
+ 
+
+<div id="map-canvas"></div>
+
+
+
+</body>
+</html>

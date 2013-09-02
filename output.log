@@ -1,0 +1,485 @@
+info: socket.io started
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized Rxyvy4I234gG3DV6GmRD
+debug: setting request GET /socket.io/1/websocket/Rxyvy4I234gG3DV6GmRD
+debug: set heartbeat interval for client Rxyvy4I234gG3DV6GmRD
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"clients","args":[[]]}
+debug: websocket writing 5:::{"name":"clients_y","args":[[]]}
+debug: websocket writing 5:::{"name":"start2","args":[[]]}
+debug: websocket writing 5:::{"name":"start","args":[[""]]}
+info: transport end (socket end)
+debug: set close timeout for client Rxyvy4I234gG3DV6GmRD
+debug: cleared close timeout for client Rxyvy4I234gG3DV6GmRD
+debug: cleared heartbeat interval for client Rxyvy4I234gG3DV6GmRD
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized Sb-BVvQp3VMhfR9CGmRE
+debug: setting request GET /socket.io/1/websocket/Sb-BVvQp3VMhfR9CGmRE
+debug: set heartbeat interval for client Sb-BVvQp3VMhfR9CGmRE
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"clients","args":[[]]}
+debug: websocket writing 5:::{"name":"clients_y","args":[[]]}
+debug: websocket writing 5:::{"name":"start2","args":[[]]}
+debug: websocket writing 5:::{"name":"start","args":[[""]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Room new has 0 client(s)"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Request to create or join room","new"]]}
+debug: websocket writing 5:::{"name":"created","args":["new"]}
+debug: websocket writing 5:::{"name":"emit(): client Sb-BVvQp3VMhfR9CGmRE joined room new"}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ","got user media"]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Location_x=59.939524"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Location_y=30.312020999999998"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ","bye"]]}
+debug: broadcasting packet
+info: transport end (socket end)
+debug: set close timeout for client Sb-BVvQp3VMhfR9CGmRE
+debug: cleared close timeout for client Sb-BVvQp3VMhfR9CGmRE
+debug: cleared heartbeat interval for client Sb-BVvQp3VMhfR9CGmRE
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized vKLR-MdZWlHlQ9gZGmRF
+debug: setting request GET /socket.io/1/websocket/vKLR-MdZWlHlQ9gZGmRF
+debug: set heartbeat interval for client vKLR-MdZWlHlQ9gZGmRF
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"clients","args":[[]]}
+debug: websocket writing 5:::{"name":"clients_y","args":[[]]}
+debug: websocket writing 5:::{"name":"start2","args":[[]]}
+debug: websocket writing 5:::{"name":"start","args":[[""]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Room new has 0 client(s)"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Request to create or join room","new"]]}
+debug: websocket writing 5:::{"name":"created","args":["new"]}
+debug: websocket writing 5:::{"name":"emit(): client vKLR-MdZWlHlQ9gZGmRF joined room new"}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ","got user media"]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Location_x=59.939524"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Location_y=30.312020999999998"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ","bye"]]}
+debug: broadcasting packet
+info: transport end (socket end)
+debug: set close timeout for client vKLR-MdZWlHlQ9gZGmRF
+debug: cleared close timeout for client vKLR-MdZWlHlQ9gZGmRF
+debug: cleared heartbeat interval for client vKLR-MdZWlHlQ9gZGmRF
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized K_FZO_i9gY4h27cGGmRG
+debug: setting request GET /socket.io/1/websocket/K_FZO_i9gY4h27cGGmRG
+debug: set heartbeat interval for client K_FZO_i9gY4h27cGGmRG
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"clients","args":[[]]}
+debug: websocket writing 5:::{"name":"clients_y","args":[[]]}
+debug: websocket writing 5:::{"name":"start2","args":[[]]}
+debug: websocket writing 5:::{"name":"start","args":[[""]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Room new has 0 client(s)"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Request to create or join room","new"]]}
+debug: websocket writing 5:::{"name":"created","args":["new"]}
+debug: websocket writing 5:::{"name":"emit(): client K_FZO_i9gY4h27cGGmRG joined room new"}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ","got user media"]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Location_x=59.939524"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Location_y=30.312020999999998"]]}
+debug: client authorized
+info: handshake authorized KgkBOX8xRY-6mZZCGmRH
+debug: setting request GET /socket.io/1/websocket/KgkBOX8xRY-6mZZCGmRH
+debug: set heartbeat interval for client KgkBOX8xRY-6mZZCGmRH
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"clients","args":[[59.939524]]}
+debug: websocket writing 5:::{"name":"clients_y","args":[[30.312020999999998]]}
+debug: websocket writing 5:::{"name":"start2","args":[["new"]]}
+debug: websocket writing 5:::{"name":"start","args":[["","/new"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ","bye"]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":["bye"]}
+info: transport end (socket end)
+debug: set close timeout for client K_FZO_i9gY4h27cGGmRG
+debug: cleared close timeout for client K_FZO_i9gY4h27cGGmRG
+debug: cleared heartbeat interval for client K_FZO_i9gY4h27cGGmRG
+debug: discarding transport
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ","bye"]]}
+debug: broadcasting packet
+info: transport end (socket end)
+debug: set close timeout for client KgkBOX8xRY-6mZZCGmRH
+debug: cleared close timeout for client KgkBOX8xRY-6mZZCGmRH
+debug: cleared heartbeat interval for client KgkBOX8xRY-6mZZCGmRH
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized MHKvEw06SMK-0YJPGmRI
+debug: setting request GET /socket.io/1/websocket/MHKvEw06SMK-0YJPGmRI
+debug: set heartbeat interval for client MHKvEw06SMK-0YJPGmRI
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"clients","args":[[]]}
+debug: websocket writing 5:::{"name":"clients_y","args":[[]]}
+debug: websocket writing 5:::{"name":"start2","args":[[]]}
+debug: websocket writing 5:::{"name":"start","args":[[""]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Room new has 0 client(s)"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Request to create or join room","new"]]}
+debug: websocket writing 5:::{"name":"created","args":["new"]}
+debug: websocket writing 5:::{"name":"emit(): client MHKvEw06SMK-0YJPGmRI joined room new"}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ","got user media"]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Location_x=59.939524"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Location_y=30.312020999999998"]]}
+debug: emitting heartbeat for client MHKvEw06SMK-0YJPGmRI
+debug: websocket writing 2::
+debug: set heartbeat timeout for client MHKvEw06SMK-0YJPGmRI
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client MHKvEw06SMK-0YJPGmRI
+debug: set heartbeat interval for client MHKvEw06SMK-0YJPGmRI
+debug: emitting heartbeat for client MHKvEw06SMK-0YJPGmRI
+debug: websocket writing 2::
+debug: set heartbeat timeout for client MHKvEw06SMK-0YJPGmRI
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client MHKvEw06SMK-0YJPGmRI
+debug: set heartbeat interval for client MHKvEw06SMK-0YJPGmRI
+debug: emitting heartbeat for client MHKvEw06SMK-0YJPGmRI
+debug: websocket writing 2::
+debug: set heartbeat timeout for client MHKvEw06SMK-0YJPGmRI
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client MHKvEw06SMK-0YJPGmRI
+debug: set heartbeat interval for client MHKvEw06SMK-0YJPGmRI
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized axT5EyyCatSR38GRGmRJ
+debug: setting request GET /socket.io/1/websocket/axT5EyyCatSR38GRGmRJ
+debug: set heartbeat interval for client axT5EyyCatSR38GRGmRJ
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"clients","args":[[59.939524]]}
+debug: websocket writing 5:::{"name":"clients_y","args":[[30.312020999999998]]}
+debug: websocket writing 5:::{"name":"start2","args":[["new"]]}
+debug: websocket writing 5:::{"name":"start","args":[["","/new"]]}
+debug: served static content /socket.io.js
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Room new has 1 client(s)"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Request to create or join room","new"]]}
+debug: websocket writing 5:::{"name":"join","args":["new"]}
+debug: websocket writing 5:::{"name":"joined","args":["new"]}
+debug: websocket writing 5:::{"name":"emit(): client axT5EyyCatSR38GRGmRJ joined room new"}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"broadcast(): client axT5EyyCatSR38GRGmRJ joined room new"}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Location_x=59.939524"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Location_y=30.312020999999998"]]}
+debug: client authorized
+info: handshake authorized jcwCwy5XX139JIEnGmRK
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ","got user media"]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":["got user media"]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"sdp":"v=0\r\no=- 1241015213563005631 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE audio video data\r\na=msid-semantic: WMS VUt5l52sX5HBEpfbxBItEzSUY8s82I0WmgUs\r\nm=audio 1 RTP/SAVPF 111 103 104 0 8 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:NWsisvHMph+P5MFX\r\na=ice-pwd:bKXsIgZ53NJX/TBQ2TYz/T2Y\r\na=ice-options:google-ice\r\na=fingerprint:sha-256 55:A8:3E:69:79:3C:EC:4B:B2:BC:CD:99:EB:5D:B5:5B:88:4B:53:9F:41:63:35:D0:D8:8B:EF:D4:E9:F7:4E:D7\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=sendrecv\r\na=mid:audio\r\na=rtcp-mux\r\na=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:3Z3m27ZHvQ5T+caaFwmCqKA2fyZrLrKp1gdTVubV\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:126 telephone-event/8000\r\na=maxptime:60\r\na=ssrc:445447390 cname:nUMwgUW/vTQ7TU42\r\na=ssrc:445447390 msid:VUt5l52sX5HBEpfbxBItEzSUY8s82I0WmgUs VUt5l52sX5HBEpfbxBItEzSUY8s82I0WmgUsa0\r\na=ssrc:445447390 mslabel:VUt5l52sX5HBEpfbxBItEzSUY8s82I0WmgUs\r\na=ssrc:445447390 label:VUt5l52sX5HBEpfbxBItEzSUY8s82I0WmgUsa0\r\nm=video 1 RTP/SAVPF 100 116 117\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:NWsisvHMph+P5MFX\r\na=ice-pwd:bKXsIgZ53NJX/TBQ2TYz/T2Y\r\na=ice-options:google-ice\r\na=fingerprint:sha-256 55:A8:3E:69:79:3C:EC:4B:B2:BC:CD:99:EB:5D:B5:5B:88:4B:53:9F:41:63:35:D0:D8:8B:EF:D4:E9:F7:4E:D7\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=recvonly\r\na=mid:video\r\na=rtcp-mux\r\na=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:3Z3m27ZHvQ5T+caaFwmCqKA2fyZrLrKp1gdTVubV\r\na=rtpmap:100 VP8/90000\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack \r\na=rtcp-fb:100 goog-remb \r\na=rtpmap:116 red/90000\r\na=rtpmap:117 ulpfec/90000\r\nm=application 1 RTP/SAVPF 101\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:NWsisvHMph+P5MFX\r\na=ice-pwd:bKXsIgZ53NJX/TBQ2TYz/T2Y\r\na=ice-options:google-ice\r\na=fingerprint:sha-256 55:A8:3E:69:79:3C:EC:4B:B2:BC:CD:99:EB:5D:B5:5B:88:4B:53:9F:41:63:35:D0:D8:8B:EF:D4:E9:F7:4E:D7\r\na=sendrecv\r\na=mid:data\r\nb=AS:30\r\na=rtcp-mux\r\na=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:3Z3m27ZHvQ5T+caaFwmCqKA2fyZrLrKp1gdTVubV\r\na=rtpmap:101 google-data/90000\r\na=ssrc:221254 cname:nqRkXxXqxDq+/6kC\r\na=ssrc:221254 msid:sendDataChannel sendDataChannel\r\na=ssrc:221254 mslabel:sendDataChannel\r\na=ssrc:221254 label:sendDataChannel\r\n","type":"offer"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"sdp":"v=0\r\no=- 1241015213563005631 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE audio video data\r\na=msid-semantic: WMS VUt5l52sX5HBEpfbxBItEzSUY8s82I0WmgUs\r\nm=audio 1 RTP/SAVPF 111 103 104 0 8 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:NWsisvHMph+P5MFX\r\na=ice-pwd:bKXsIgZ53NJX/TBQ2TYz/T2Y\r\na=ice-options:google-ice\r\na=fingerprint:sha-256 55:A8:3E:69:79:3C:EC:4B:B2:BC:CD:99:EB:5D:B5:5B:88:4B:53:9F:41:63:35:D0:D8:8B:EF:D4:E9:F7:4E:D7\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=sendrecv\r\na=mid:audio\r\na=rtcp-mux\r\na=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:3Z3m27ZHvQ5T+caaFwmCqKA2fyZrLrKp1gdTVubV\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:126 telephone-event/8000\r\na=maxptime:60\r\na=ssrc:445447390 cname:nUMwgUW/vTQ7TU42\r\na=ssrc:445447390 msid:VUt5l52sX5HBEpfbxBItEzSUY8s82I0WmgUs VUt5l52sX5HBEpfbxBItEzSUY8s82I0WmgUsa0\r\na=ssrc:445447390 mslabel:VUt5l52sX5HBEpfbxBItEzSUY8s82I0WmgUs\r\na=ssrc:445447390 label:VUt5l52sX5HBEpfbxBItEzSUY8s82I0WmgUsa0\r\nm=video 1 RTP/SAVPF 100 116 117\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:NWsisvHMph+P5MFX\r\na=ice-pwd:bKXsIgZ53NJX/TBQ2TYz/T2Y\r\na=ice-options:google-ice\r\na=fingerprint:sha-256 55:A8:3E:69:79:3C:EC:4B:B2:BC:CD:99:EB:5D:B5:5B:88:4B:53:9F:41:63:35:D0:D8:8B:EF:D4:E9:F7:4E:D7\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=recvonly\r\na=mid:video\r\na=rtcp-mux\r\na=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:3Z3m27ZHvQ5T+caaFwmCqKA2fyZrLrKp1gdTVubV\r\na=rtpmap:100 VP8/90000\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack \r\na=rtcp-fb:100 goog-remb \r\na=rtpmap:116 red/90000\r\na=rtpmap:117 ulpfec/90000\r\nm=application 1 RTP/SAVPF 101\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:NWsisvHMph+P5MFX\r\na=ice-pwd:bKXsIgZ53NJX/TBQ2TYz/T2Y\r\na=ice-options:google-ice\r\na=fingerprint:sha-256 55:A8:3E:69:79:3C:EC:4B:B2:BC:CD:99:EB:5D:B5:5B:88:4B:53:9F:41:63:35:D0:D8:8B:EF:D4:E9:F7:4E:D7\r\na=sendrecv\r\na=mid:data\r\nb=AS:30\r\na=rtcp-mux\r\na=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:3Z3m27ZHvQ5T+caaFwmCqKA2fyZrLrKp1gdTVubV\r\na=rtpmap:101 google-data/90000\r\na=ssrc:221254 cname:nqRkXxXqxDq+/6kC\r\na=ssrc:221254 msid:sendDataChannel sendDataChannel\r\na=ssrc:221254 mslabel:sendDataChannel\r\na=ssrc:221254 label:sendDataChannel\r\n","type":"offer"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:2048257620 1 udp 2113937151 192.168.57.41 57644 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:2048257620 1 udp 2113937151 192.168.57.41 57644 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:2048257620 2 udp 2113937151 192.168.57.41 57644 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:2048257620 2 udp 2113937151 192.168.57.41 57644 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:2048257620 1 udp 2113937151 192.168.57.41 57644 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:2048257620 1 udp 2113937151 192.168.57.41 57644 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:2048257620 2 udp 2113937151 192.168.57.41 57644 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:2048257620 2 udp 2113937151 192.168.57.41 57644 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:2048257620 1 udp 2113937151 192.168.57.41 57644 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:2048257620 1 udp 2113937151 192.168.57.41 57644 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:2048257620 2 udp 2113937151 192.168.57.41 57644 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:2048257620 2 udp 2113937151 192.168.57.41 57644 typ host generation 0\r\n"}]}
+debug: setting request GET /socket.io/1/websocket/jcwCwy5XX139JIEnGmRK
+debug: set heartbeat interval for client jcwCwy5XX139JIEnGmRK
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"clients","args":[[59.939524,59.939524]]}
+debug: websocket writing 5:::{"name":"clients_y","args":[[30.312020999999998,30.312020999999998]]}
+debug: websocket writing 5:::{"name":"start2","args":[["new","new"]]}
+debug: websocket writing 5:::{"name":"start","args":[["","/new"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:4217235680 1 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:4217235680 1 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:4217235680 1 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:4217235680 2 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:4217235680 2 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:4217235680 2 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:4217235680 1 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:4217235680 1 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:4217235680 1 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:4217235680 2 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:4217235680 2 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:4217235680 2 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:4217235680 1 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:4217235680 1 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:4217235680 1 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:4217235680 2 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:4217235680 2 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:4217235680 2 udp 1845501695 91.212.168.20 57644 typ srflx raddr 192.168.57.41 rport 57644 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Room new has 2 client(s)"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Request to create or join room","new"]]}
+debug: websocket writing 5:::{"name":"full","args":["new"]}
+debug: websocket writing 5:::{"name":"emit(): client jcwCwy5XX139JIEnGmRK joined room new"}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"broadcast(): client jcwCwy5XX139JIEnGmRK joined room new"}
+debug: websocket writing 5:::{"name":"broadcast(): client jcwCwy5XX139JIEnGmRK joined room new"}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Location_x=59.939524"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Location_y=30.312020999999998"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ","got user media"]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":["got user media"]}
+debug: websocket writing 5:::{"name":"message","args":["got user media"]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"sdp":"v=0\r\no=- 5967341258772877570 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE audio video data\r\na=msid-semantic: WMS NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2p\r\nm=audio 1 RTP/SAVPF 111 103 104 0 8 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:5p2ZYQEOwc0NODnh\r\na=ice-pwd:64IDSBix6PT1txd1cy/R0ILO\r\na=fingerprint:sha-256 4A:A3:29:2B:54:4E:CC:56:EE:2B:FC:AC:A4:FE:A0:83:B7:D1:6D:6B:3F:99:27:B8:3B:2D:30:D0:02:38:DC:96\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=sendrecv\r\na=mid:audio\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:126 telephone-event/8000\r\na=maxptime:60\r\na=ssrc:2053863471 cname:cwF3s+4paHyQjyoD\r\na=ssrc:2053863471 msid:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2p NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2pa0\r\na=ssrc:2053863471 mslabel:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2p\r\na=ssrc:2053863471 label:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2pa0\r\nm=video 1 RTP/SAVPF 100 116 117\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:5p2ZYQEOwc0NODnh\r\na=ice-pwd:64IDSBix6PT1txd1cy/R0ILO\r\na=fingerprint:sha-256 4A:A3:29:2B:54:4E:CC:56:EE:2B:FC:AC:A4:FE:A0:83:B7:D1:6D:6B:3F:99:27:B8:3B:2D:30:D0:02:38:DC:96\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=sendonly\r\na=mid:video\r\na=rtcp-mux\r\na=rtpmap:100 VP8/90000\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 goog-remb\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 ulpfec/90000\r\na=ssrc:2000679079 cname:cwF3s+4paHyQjyoD\r\na=ssrc:2000679079 msid:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2p NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2pv0\r\na=ssrc:2000679079 mslabel:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2p\r\na=ssrc:2000679079 label:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2pv0\r\nm=application 1 RTP/SAVPF 101\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:5p2ZYQEOwc0NODnh\r\na=ice-pwd:64IDSBix6PT1txd1cy/R0ILO\r\na=fingerprint:sha-256 4A:A3:29:2B:54:4E:CC:56:EE:2B:FC:AC:A4:FE:A0:83:B7:D1:6D:6B:3F:99:27:B8:3B:2D:30:D0:02:38:DC:96\r\na=sendrecv\r\na=mid:data\r\nb=AS:30\r\na=rtcp-mux\r\na=rtpmap:101 google-data/90000\r\na=ssrc:3654776943 cname:ruJb/t9oSsOtvsvd\r\na=ssrc:3654776943 msid:sendDataChannel sendDataChannel\r\na=ssrc:3654776943 mslabel:sendDataChannel\r\na=ssrc:3654776943 label:sendDataChannel\r\n","type":"answer"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"sdp":"v=0\r\no=- 5967341258772877570 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE audio video data\r\na=msid-semantic: WMS NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2p\r\nm=audio 1 RTP/SAVPF 111 103 104 0 8 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:5p2ZYQEOwc0NODnh\r\na=ice-pwd:64IDSBix6PT1txd1cy/R0ILO\r\na=fingerprint:sha-256 4A:A3:29:2B:54:4E:CC:56:EE:2B:FC:AC:A4:FE:A0:83:B7:D1:6D:6B:3F:99:27:B8:3B:2D:30:D0:02:38:DC:96\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=sendrecv\r\na=mid:audio\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:126 telephone-event/8000\r\na=maxptime:60\r\na=ssrc:2053863471 cname:cwF3s+4paHyQjyoD\r\na=ssrc:2053863471 msid:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2p NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2pa0\r\na=ssrc:2053863471 mslabel:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2p\r\na=ssrc:2053863471 label:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2pa0\r\nm=video 1 RTP/SAVPF 100 116 117\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:5p2ZYQEOwc0NODnh\r\na=ice-pwd:64IDSBix6PT1txd1cy/R0ILO\r\na=fingerprint:sha-256 4A:A3:29:2B:54:4E:CC:56:EE:2B:FC:AC:A4:FE:A0:83:B7:D1:6D:6B:3F:99:27:B8:3B:2D:30:D0:02:38:DC:96\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=sendonly\r\na=mid:video\r\na=rtcp-mux\r\na=rtpmap:100 VP8/90000\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 goog-remb\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 ulpfec/90000\r\na=ssrc:2000679079 cname:cwF3s+4paHyQjyoD\r\na=ssrc:2000679079 msid:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2p NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2pv0\r\na=ssrc:2000679079 mslabel:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2p\r\na=ssrc:2000679079 label:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2pv0\r\nm=application 1 RTP/SAVPF 101\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:5p2ZYQEOwc0NODnh\r\na=ice-pwd:64IDSBix6PT1txd1cy/R0ILO\r\na=fingerprint:sha-256 4A:A3:29:2B:54:4E:CC:56:EE:2B:FC:AC:A4:FE:A0:83:B7:D1:6D:6B:3F:99:27:B8:3B:2D:30:D0:02:38:DC:96\r\na=sendrecv\r\na=mid:data\r\nb=AS:30\r\na=rtcp-mux\r\na=rtpmap:101 google-data/90000\r\na=ssrc:3654776943 cname:ruJb/t9oSsOtvsvd\r\na=ssrc:3654776943 msid:sendDataChannel sendDataChannel\r\na=ssrc:3654776943 mslabel:sendDataChannel\r\na=ssrc:3654776943 label:sendDataChannel\r\n","type":"answer"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"sdp":"v=0\r\no=- 5967341258772877570 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE audio video data\r\na=msid-semantic: WMS NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2p\r\nm=audio 1 RTP/SAVPF 111 103 104 0 8 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:5p2ZYQEOwc0NODnh\r\na=ice-pwd:64IDSBix6PT1txd1cy/R0ILO\r\na=fingerprint:sha-256 4A:A3:29:2B:54:4E:CC:56:EE:2B:FC:AC:A4:FE:A0:83:B7:D1:6D:6B:3F:99:27:B8:3B:2D:30:D0:02:38:DC:96\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=sendrecv\r\na=mid:audio\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:126 telephone-event/8000\r\na=maxptime:60\r\na=ssrc:2053863471 cname:cwF3s+4paHyQjyoD\r\na=ssrc:2053863471 msid:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2p NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2pa0\r\na=ssrc:2053863471 mslabel:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2p\r\na=ssrc:2053863471 label:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2pa0\r\nm=video 1 RTP/SAVPF 100 116 117\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:5p2ZYQEOwc0NODnh\r\na=ice-pwd:64IDSBix6PT1txd1cy/R0ILO\r\na=fingerprint:sha-256 4A:A3:29:2B:54:4E:CC:56:EE:2B:FC:AC:A4:FE:A0:83:B7:D1:6D:6B:3F:99:27:B8:3B:2D:30:D0:02:38:DC:96\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=sendonly\r\na=mid:video\r\na=rtcp-mux\r\na=rtpmap:100 VP8/90000\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 goog-remb\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 ulpfec/90000\r\na=ssrc:2000679079 cname:cwF3s+4paHyQjyoD\r\na=ssrc:2000679079 msid:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2p NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2pv0\r\na=ssrc:2000679079 mslabel:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2p\r\na=ssrc:2000679079 label:NUUJZJjrPZEYtK3WbL0CGq7Cbo0xriE59I2pv0\r\nm=application 1 RTP/SAVPF 101\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:5p2ZYQEOwc0NODnh\r\na=ice-pwd:64IDSBix6PT1txd1cy/R0ILO\r\na=fingerprint:sha-256 4A:A3:29:2B:54:4E:CC:56:EE:2B:FC:AC:A4:FE:A0:83:B7:D1:6D:6B:3F:99:27:B8:3B:2D:30:D0:02:38:DC:96\r\na=sendrecv\r\na=mid:data\r\nb=AS:30\r\na=rtcp-mux\r\na=rtpmap:101 google-data/90000\r\na=ssrc:3654776943 cname:ruJb/t9oSsOtvsvd\r\na=ssrc:3654776943 msid:sendDataChannel sendDataChannel\r\na=ssrc:3654776943 mslabel:sendDataChannel\r\na=ssrc:3654776943 label:sendDataChannel\r\n","type":"answer"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 60128 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 60128 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 60128 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 52124 typ srflx raddr 10.0.0.10 rport 60128 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 52124 typ srflx raddr 10.0.0.10 rport 60128 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 52124 typ srflx raddr 10.0.0.10 rport 60128 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 60128 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 60128 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 60128 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 52124 typ srflx raddr 10.0.0.10 rport 60128 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 52124 typ srflx raddr 10.0.0.10 rport 60128 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 52124 typ srflx raddr 10.0.0.10 rport 60128 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 60128 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 60128 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 60128 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 52124 typ srflx raddr 10.0.0.10 rport 60128 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 52124 typ srflx raddr 10.0.0.10 rport 60128 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 52124 typ srflx raddr 10.0.0.10 rport 60128 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:882250404 1 tcp 1509957375 192.168.57.41 0 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:882250404 1 tcp 1509957375 192.168.57.41 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:882250404 1 tcp 1509957375 192.168.57.41 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:882250404 1 tcp 1509957375 192.168.57.41 0 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:882250404 1 tcp 1509957375 192.168.57.41 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:882250404 1 tcp 1509957375 192.168.57.41 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:882250404 1 tcp 1509957375 192.168.57.41 0 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:882250404 1 tcp 1509957375 192.168.57.41 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:882250404 1 tcp 1509957375 192.168.57.41 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ","bye"]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":["bye"]}
+debug: websocket writing 5:::{"name":"message","args":["bye"]}
+info: transport end (socket end)
+debug: set close timeout for client MHKvEw06SMK-0YJPGmRI
+debug: cleared close timeout for client MHKvEw06SMK-0YJPGmRI
+debug: cleared heartbeat interval for client MHKvEw06SMK-0YJPGmRI
+debug: discarding transport
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ","bye"]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":["bye"]}
+info: transport end (socket end)
+debug: set close timeout for client jcwCwy5XX139JIEnGmRK
+debug: cleared close timeout for client jcwCwy5XX139JIEnGmRK
+debug: cleared heartbeat interval for client jcwCwy5XX139JIEnGmRK
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized aCvpSuSzaEEJ_P0nGmRL
+debug: setting request GET /socket.io/1/websocket/aCvpSuSzaEEJ_P0nGmRL
+debug: set heartbeat interval for client aCvpSuSzaEEJ_P0nGmRL
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"clients","args":[[59.939524]]}
+debug: websocket writing 5:::{"name":"clients_y","args":[[30.312020999999998]]}
+debug: websocket writing 5:::{"name":"start2","args":[["new"]]}
+debug: websocket writing 5:::{"name":"start","args":[["","/new"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Room foo has 0 client(s)"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Request to create or join room","foo"]]}
+debug: websocket writing 5:::{"name":"created","args":["foo"]}
+debug: websocket writing 5:::{"name":"emit(): client aCvpSuSzaEEJ_P0nGmRL joined room foo"}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"broadcast(): client aCvpSuSzaEEJ_P0nGmRL joined room foo"}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Location_x=59.939524"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Location_y=30.312020999999998"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ","got user media"]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":["got user media"]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ","bye"]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":["bye"]}
+info: transport end (socket end)
+debug: set close timeout for client axT5EyyCatSR38GRGmRJ
+debug: cleared close timeout for client axT5EyyCatSR38GRGmRJ
+debug: cleared heartbeat interval for client axT5EyyCatSR38GRGmRJ
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized n0MyKdquG6hkKrIZGmRM
+debug: setting request GET /socket.io/1/websocket/n0MyKdquG6hkKrIZGmRM
+debug: set heartbeat interval for client n0MyKdquG6hkKrIZGmRM
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"clients","args":[[59.939524]]}
+debug: websocket writing 5:::{"name":"clients_y","args":[[30.312020999999998]]}
+debug: websocket writing 5:::{"name":"start2","args":[["foo"]]}
+debug: websocket writing 5:::{"name":"start","args":[["","/foo"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Room foo has 1 client(s)"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Request to create or join room","foo"]]}
+debug: websocket writing 5:::{"name":"join","args":["foo"]}
+debug: websocket writing 5:::{"name":"joined","args":["foo"]}
+debug: websocket writing 5:::{"name":"emit(): client n0MyKdquG6hkKrIZGmRM joined room foo"}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"broadcast(): client n0MyKdquG6hkKrIZGmRM joined room foo"}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Location_x=59.939524"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Location_y=30.312020999999998"]]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ","got user media"]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":["got user media"]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"sdp":"v=0\r\no=- 4556656769732242981 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE audio video data\r\na=msid-semantic: WMS yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEh\r\nm=audio 1 RTP/SAVPF 111 103 104 0 8 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:v5j4qD+iEKYSqOOg\r\na=ice-pwd:eP0oLIhUsu0+xPpvmH5foSfk\r\na=ice-options:google-ice\r\na=fingerprint:sha-256 A7:5F:33:82:1B:AD:8F:8F:97:46:55:6F:0B:13:B7:A0:04:BF:9F:A5:B2:EE:55:5D:85:BC:37:3E:F8:A8:34:59\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=sendrecv\r\na=mid:audio\r\na=rtcp-mux\r\na=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:cb5fdJtV7QyOfaTnmn1NgCZuKHCDJYpgqYPuRvuD\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:126 telephone-event/8000\r\na=maxptime:60\r\na=ssrc:1713598189 cname:HRS9vLvcPX9TUYlP\r\na=ssrc:1713598189 msid:yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEh yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEha0\r\na=ssrc:1713598189 mslabel:yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEh\r\na=ssrc:1713598189 label:yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEha0\r\nm=video 1 RTP/SAVPF 100 116 117\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:v5j4qD+iEKYSqOOg\r\na=ice-pwd:eP0oLIhUsu0+xPpvmH5foSfk\r\na=ice-options:google-ice\r\na=fingerprint:sha-256 A7:5F:33:82:1B:AD:8F:8F:97:46:55:6F:0B:13:B7:A0:04:BF:9F:A5:B2:EE:55:5D:85:BC:37:3E:F8:A8:34:59\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=sendrecv\r\na=mid:video\r\na=rtcp-mux\r\na=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:cb5fdJtV7QyOfaTnmn1NgCZuKHCDJYpgqYPuRvuD\r\na=rtpmap:100 VP8/90000\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 goog-remb\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 ulpfec/90000\r\na=ssrc:3776598013 cname:HRS9vLvcPX9TUYlP\r\na=ssrc:3776598013 msid:yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEh yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEhv0\r\na=ssrc:3776598013 mslabel:yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEh\r\na=ssrc:3776598013 label:yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEhv0\r\nm=application 1 RTP/SAVPF 101\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:v5j4qD+iEKYSqOOg\r\na=ice-pwd:eP0oLIhUsu0+xPpvmH5foSfk\r\na=ice-options:google-ice\r\na=fingerprint:sha-256 A7:5F:33:82:1B:AD:8F:8F:97:46:55:6F:0B:13:B7:A0:04:BF:9F:A5:B2:EE:55:5D:85:BC:37:3E:F8:A8:34:59\r\na=sendrecv\r\na=mid:data\r\nb=AS:30\r\na=rtcp-mux\r\na=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:cb5fdJtV7QyOfaTnmn1NgCZuKHCDJYpgqYPuRvuD\r\na=rtpmap:101 google-data/90000\r\na=ssrc:2131259006 cname:oyp1TbDt2scH+5Va\r\na=ssrc:2131259006 msid:sendDataChannel sendDataChannel\r\na=ssrc:2131259006 mslabel:sendDataChannel\r\na=ssrc:2131259006 label:sendDataChannel\r\n","type":"offer"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"sdp":"v=0\r\no=- 4556656769732242981 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE audio video data\r\na=msid-semantic: WMS yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEh\r\nm=audio 1 RTP/SAVPF 111 103 104 0 8 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:v5j4qD+iEKYSqOOg\r\na=ice-pwd:eP0oLIhUsu0+xPpvmH5foSfk\r\na=ice-options:google-ice\r\na=fingerprint:sha-256 A7:5F:33:82:1B:AD:8F:8F:97:46:55:6F:0B:13:B7:A0:04:BF:9F:A5:B2:EE:55:5D:85:BC:37:3E:F8:A8:34:59\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=sendrecv\r\na=mid:audio\r\na=rtcp-mux\r\na=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:cb5fdJtV7QyOfaTnmn1NgCZuKHCDJYpgqYPuRvuD\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:126 telephone-event/8000\r\na=maxptime:60\r\na=ssrc:1713598189 cname:HRS9vLvcPX9TUYlP\r\na=ssrc:1713598189 msid:yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEh yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEha0\r\na=ssrc:1713598189 mslabel:yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEh\r\na=ssrc:1713598189 label:yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEha0\r\nm=video 1 RTP/SAVPF 100 116 117\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:v5j4qD+iEKYSqOOg\r\na=ice-pwd:eP0oLIhUsu0+xPpvmH5foSfk\r\na=ice-options:google-ice\r\na=fingerprint:sha-256 A7:5F:33:82:1B:AD:8F:8F:97:46:55:6F:0B:13:B7:A0:04:BF:9F:A5:B2:EE:55:5D:85:BC:37:3E:F8:A8:34:59\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=sendrecv\r\na=mid:video\r\na=rtcp-mux\r\na=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:cb5fdJtV7QyOfaTnmn1NgCZuKHCDJYpgqYPuRvuD\r\na=rtpmap:100 VP8/90000\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 goog-remb\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 ulpfec/90000\r\na=ssrc:3776598013 cname:HRS9vLvcPX9TUYlP\r\na=ssrc:3776598013 msid:yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEh yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEhv0\r\na=ssrc:3776598013 mslabel:yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEh\r\na=ssrc:3776598013 label:yWSzEzmJERxMZ9B6MrgG6VIgZ2kllmllbOEhv0\r\nm=application 1 RTP/SAVPF 101\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:v5j4qD+iEKYSqOOg\r\na=ice-pwd:eP0oLIhUsu0+xPpvmH5foSfk\r\na=ice-options:google-ice\r\na=fingerprint:sha-256 A7:5F:33:82:1B:AD:8F:8F:97:46:55:6F:0B:13:B7:A0:04:BF:9F:A5:B2:EE:55:5D:85:BC:37:3E:F8:A8:34:59\r\na=sendrecv\r\na=mid:data\r\nb=AS:30\r\na=rtcp-mux\r\na=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:cb5fdJtV7QyOfaTnmn1NgCZuKHCDJYpgqYPuRvuD\r\na=rtpmap:101 google-data/90000\r\na=ssrc:2131259006 cname:oyp1TbDt2scH+5Va\r\na=ssrc:2131259006 msid:sendDataChannel sendDataChannel\r\na=ssrc:2131259006 mslabel:sendDataChannel\r\na=ssrc:2131259006 label:sendDataChannel\r\n","type":"offer"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 61603 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 61603 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:2162125114 2 udp 2113937151 10.0.0.10 61603 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:2162125114 2 udp 2113937151 10.0.0.10 61603 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 61603 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 61603 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:2162125114 2 udp 2113937151 10.0.0.10 61603 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:2162125114 2 udp 2113937151 10.0.0.10 61603 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 61603 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 61603 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:2162125114 2 udp 2113937151 10.0.0.10 61603 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:2162125114 2 udp 2113937151 10.0.0.10 61603 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 61114 typ srflx raddr 10.0.0.10 rport 61603 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 61114 typ srflx raddr 10.0.0.10 rport 61603 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3260192690 2 udp 1845501695 94.25.228.19 61114 typ srflx raddr 10.0.0.10 rport 61603 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3260192690 2 udp 1845501695 94.25.228.19 61114 typ srflx raddr 10.0.0.10 rport 61603 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 61114 typ srflx raddr 10.0.0.10 rport 61603 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 61114 typ srflx raddr 10.0.0.10 rport 61603 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3260192690 2 udp 1845501695 94.25.228.19 61114 typ srflx raddr 10.0.0.10 rport 61603 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3260192690 2 udp 1845501695 94.25.228.19 61114 typ srflx raddr 10.0.0.10 rport 61603 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 61114 typ srflx raddr 10.0.0.10 rport 61603 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 61114 typ srflx raddr 10.0.0.10 rport 61603 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3260192690 2 udp 1845501695 94.25.228.19 61114 typ srflx raddr 10.0.0.10 rport 61603 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3260192690 2 udp 1845501695 94.25.228.19 61114 typ srflx raddr 10.0.0.10 rport 61603 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3462174154 2 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3462174154 2 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3462174154 2 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3462174154 2 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3462174154 2 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3462174154 2 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"sdp":"v=0\r\no=- 3188115345949198474 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE audio video data\r\na=msid-semantic: WMS xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzF\r\nm=audio 1 RTP/SAVPF 111 103 104 0 8 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:yEYskUK6GX9nXsGH\r\na=ice-pwd:lOvSkn3dUVaqzLW9jAGMr6CM\r\na=fingerprint:sha-256 C1:8A:96:A1:CB:4B:31:F3:4B:12:82:DF:16:09:18:D8:FF:BE:37:6D:06:D0:69:07:7B:A0:58:37:6A:78:ED:05\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=sendrecv\r\na=mid:audio\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:126 telephone-event/8000\r\na=maxptime:60\r\na=ssrc:1798377105 cname:ZoUNjrJwlLE9bGtf\r\na=ssrc:1798377105 msid:xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzF xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzFa0\r\na=ssrc:1798377105 mslabel:xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzF\r\na=ssrc:1798377105 label:xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzFa0\r\nm=video 1 RTP/SAVPF 100 116 117\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:yEYskUK6GX9nXsGH\r\na=ice-pwd:lOvSkn3dUVaqzLW9jAGMr6CM\r\na=fingerprint:sha-256 C1:8A:96:A1:CB:4B:31:F3:4B:12:82:DF:16:09:18:D8:FF:BE:37:6D:06:D0:69:07:7B:A0:58:37:6A:78:ED:05\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=sendrecv\r\na=mid:video\r\na=rtcp-mux\r\na=rtpmap:100 VP8/90000\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 goog-remb\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 ulpfec/90000\r\na=ssrc:2160528883 cname:ZoUNjrJwlLE9bGtf\r\na=ssrc:2160528883 msid:xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzF xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzFv0\r\na=ssrc:2160528883 mslabel:xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzF\r\na=ssrc:2160528883 label:xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzFv0\r\nm=application 1 RTP/SAVPF 101\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:yEYskUK6GX9nXsGH\r\na=ice-pwd:lOvSkn3dUVaqzLW9jAGMr6CM\r\na=fingerprint:sha-256 C1:8A:96:A1:CB:4B:31:F3:4B:12:82:DF:16:09:18:D8:FF:BE:37:6D:06:D0:69:07:7B:A0:58:37:6A:78:ED:05\r\na=sendrecv\r\na=mid:data\r\nb=AS:30\r\na=rtcp-mux\r\na=rtpmap:101 google-data/90000\r\na=ssrc:824116061 cname:TkIaFFNzt4S7OXpj\r\na=ssrc:824116061 msid:sendDataChannel sendDataChannel\r\na=ssrc:824116061 mslabel:sendDataChannel\r\na=ssrc:824116061 label:sendDataChannel\r\n","type":"answer"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"sdp":"v=0\r\no=- 3188115345949198474 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE audio video data\r\na=msid-semantic: WMS xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzF\r\nm=audio 1 RTP/SAVPF 111 103 104 0 8 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:yEYskUK6GX9nXsGH\r\na=ice-pwd:lOvSkn3dUVaqzLW9jAGMr6CM\r\na=fingerprint:sha-256 C1:8A:96:A1:CB:4B:31:F3:4B:12:82:DF:16:09:18:D8:FF:BE:37:6D:06:D0:69:07:7B:A0:58:37:6A:78:ED:05\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=sendrecv\r\na=mid:audio\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:126 telephone-event/8000\r\na=maxptime:60\r\na=ssrc:1798377105 cname:ZoUNjrJwlLE9bGtf\r\na=ssrc:1798377105 msid:xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzF xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzFa0\r\na=ssrc:1798377105 mslabel:xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzF\r\na=ssrc:1798377105 label:xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzFa0\r\nm=video 1 RTP/SAVPF 100 116 117\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:yEYskUK6GX9nXsGH\r\na=ice-pwd:lOvSkn3dUVaqzLW9jAGMr6CM\r\na=fingerprint:sha-256 C1:8A:96:A1:CB:4B:31:F3:4B:12:82:DF:16:09:18:D8:FF:BE:37:6D:06:D0:69:07:7B:A0:58:37:6A:78:ED:05\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=sendrecv\r\na=mid:video\r\na=rtcp-mux\r\na=rtpmap:100 VP8/90000\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 goog-remb\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 ulpfec/90000\r\na=ssrc:2160528883 cname:ZoUNjrJwlLE9bGtf\r\na=ssrc:2160528883 msid:xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzF xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzFv0\r\na=ssrc:2160528883 mslabel:xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzF\r\na=ssrc:2160528883 label:xl0fbiLM9vdNNZUBAtlIBNQJJHmobkmwILzFv0\r\nm=application 1 RTP/SAVPF 101\r\nc=IN IP4 0.0.0.0\r\na=rtcp:1 IN IP4 0.0.0.0\r\na=ice-ufrag:yEYskUK6GX9nXsGH\r\na=ice-pwd:lOvSkn3dUVaqzLW9jAGMr6CM\r\na=fingerprint:sha-256 C1:8A:96:A1:CB:4B:31:F3:4B:12:82:DF:16:09:18:D8:FF:BE:37:6D:06:D0:69:07:7B:A0:58:37:6A:78:ED:05\r\na=sendrecv\r\na=mid:data\r\nb=AS:30\r\na=rtcp-mux\r\na=rtpmap:101 google-data/90000\r\na=ssrc:824116061 cname:TkIaFFNzt4S7OXpj\r\na=ssrc:824116061 msid:sendDataChannel sendDataChannel\r\na=ssrc:824116061 mslabel:sendDataChannel\r\na=ssrc:824116061 label:sendDataChannel\r\n","type":"answer"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 58511 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 58511 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 58511 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 58511 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 58511 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:2162125114 1 udp 2113937151 10.0.0.10 58511 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 61115 typ srflx raddr 10.0.0.10 rport 58511 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 61115 typ srflx raddr 10.0.0.10 rport 58511 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 61115 typ srflx raddr 10.0.0.10 rport 58511 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 61115 typ srflx raddr 10.0.0.10 rport 58511 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 61115 typ srflx raddr 10.0.0.10 rport 58511 generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3260192690 1 udp 1845501695 94.25.228.19 61115 typ srflx raddr 10.0.0.10 rport 58511 generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":0,"id":"audio","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":2,"id":"data","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ",{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"type":"candidate","label":1,"id":"video","candidate":"a=candidate:3462174154 1 tcp 1509957375 10.0.0.10 0 typ host generation 0\r\n"}]}
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ","bye"]]}
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":["bye"]}
+info: transport end (socket end)
+debug: set close timeout for client n0MyKdquG6hkKrIZGmRM
+debug: cleared close timeout for client n0MyKdquG6hkKrIZGmRM
+debug: cleared heartbeat interval for client n0MyKdquG6hkKrIZGmRM
+debug: discarding transport
+debug: websocket writing 5:::{"name":"log","args":[[">>> ","Got message: ","bye"]]}
+debug: broadcasting packet
+info: transport end (socket end)
+debug: set close timeout for client aCvpSuSzaEEJ_P0nGmRL
+debug: cleared close timeout for client aCvpSuSzaEEJ_P0nGmRL
+debug: cleared heartbeat interval for client aCvpSuSzaEEJ_P0nGmRL
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized 8AvGZoro1Jh-pRZNGmRN
+debug: setting request GET /socket.io/1/xhr-polling/8AvGZoro1Jh-pRZNGmRN?t=1376352000000
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client 8AvGZoro1Jh-pRZNGmRN
+debug: xhr-polling received data packet 5:::{"name":"create or join","args":["new"]}
+debug: broadcasting packet
+debug: fired close timeout for client 8AvGZoro1Jh-pRZNGmRN
+info: transport end (close timeout)
+debug: discarding transport
