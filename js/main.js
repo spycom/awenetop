@@ -87,7 +87,7 @@ socket.on('start2', function (data) {
   });
 
   for (var i=0; i < data.length; i++){
-    test_rooms_list.innerHTML += "<a href=?" + data[i]+" target=_self>" + data[i] + ' </a> ' +x[i]+':'+y[i]+ '<br>';
+    //test_rooms_list.innerHTML += "<a href=?" + data[i]+" target=_self>" + data[i] + ' </a> ' +x[i]+':'+y[i]+ '<br>';
     //document.getElementById("rooms").innerHTML = rooms;
     location_array.push(new google.maps.LatLng(x[i],y[i]));
     var marker = new google.maps.Marker({
