@@ -114,6 +114,15 @@ a:hover {
     -webkit-filter: drop-shadow(2px 2px 5px gray);
     -moz-filter: drop-shadow(2px 2px 5px gray);
 }
+roomSelector {
+  width:200px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+
+}
 textarea {
     width:200px;
     padding: 10px;
