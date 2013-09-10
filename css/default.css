@@ -45,7 +45,7 @@ a:hover {
   padding: 5px;
   border: 1px solid #999;
 }
-#my_room{
+#my_room_container{
   margin: auto;
   width:90%;
   padding: 10px;
@@ -116,7 +116,7 @@ a:hover {
 }
 roomSelector {
   width:200px;
-  heght:20px;
+  height:25px;
   font-size:16pt;
   padding: 5px;
   border: 1px solid #ccc;
