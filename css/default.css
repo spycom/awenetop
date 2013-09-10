@@ -116,6 +116,8 @@ a:hover {
 }
 roomSelector {
   width:200px;
+  heght:20px;
+  font-size:16pt;
   padding: 5px;
   border: 1px solid #ccc;
   border-radius: 8px;
