@@ -115,6 +115,7 @@ a:hover {
     -moz-filter: drop-shadow(2px 2px 5px gray);
 }
 roomSelector {
+  align:right;
   width:200px;
   height:25px;
   font-size:16pt;
