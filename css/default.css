@@ -117,18 +117,9 @@ a:hover {
     -webkit-filter: drop-shadow(2px 2px 5px gray);
     -moz-filter: drop-shadow(2px 2px 5px gray);
 }
-roomSelector {
+new_room {
   float:right;
-  width:200px;
-  height:25px;
-  rows:1;
-  font-size:16pt;
-  padding: 5px;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  -moz-border-radius: 8px;
-  -webkit-border-radius: 8px;
-
+  
 }
 sessionInput {
   float:right;
