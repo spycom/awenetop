@@ -121,6 +121,7 @@ roomSelector {
   float:right;
   width:200px;
   height:25px;
+  rows:1;
   font-size:16pt;
   padding: 5px;
   border: 1px solid #ccc;
@@ -128,6 +129,14 @@ roomSelector {
   -moz-border-radius: 8px;
   -webkit-border-radius: 8px;
 
+}
+sessionInput {
+  float:right;
+  font-size:16pt;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
 }
 textarea {
     width:200px;
