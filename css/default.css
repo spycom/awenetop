@@ -132,7 +132,11 @@ roomSelector {
 }
 sessionInput {
   float:right;
+  margin:auto;
+  width:200px;
+  height:25px;
   font-size:16pt;
+  padding: 5px;
   border: 1px solid #ccc;
   border-radius: 8px;
   -moz-border-radius: 8px;
