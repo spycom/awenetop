@@ -72,6 +72,9 @@ a:hover {
 
 
 }
+#my_room {
+  float:left;
+}
 #left {
   height: 100%;
   float: left; 

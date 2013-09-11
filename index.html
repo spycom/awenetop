@@ -39,6 +39,11 @@
 
 </script>
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=true"></script>
+<script>
+	function formSubmit() {
+		
+		window.location = "?"+document.getElementById("sessionInput").value();;
+	}
 </head>
 
 <body>
@@ -48,8 +53,13 @@
 	<div id='my_room_container'>
 		<div id='my_room'>My room: - </div>
 		<div id='new_room'>
-				<textarea id="roomSelector" rows=1>Type room name</textarea>
-		
+			<form id="createRoom" action="?" method="get">
+				<textarea id="roomSelector" placeholder="Type room name" rows='1'>Type room name</textarea>
+				
+				<p>Truly simple video chat and screen sharing for groups.</p>
+				<input id="sessionInput" placeholder="Name the conversation" autofocus="autofocus"/>
+				<button type="submit" onclick="formSubmit()">Let’s go!</button>
+			</form>
 		</div>
 	</div>
 	<div id='left'>
