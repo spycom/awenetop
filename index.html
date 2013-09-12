@@ -41,9 +41,9 @@
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=true"></script>
 <script>
 	function formSubmit() {
-		
-		window.location = "?"+document.getElementById("sessionInput").value;
+		window.location = "?"+document.getElementById("newRoomName").value;
 	}
+
 </script>
 </head>
 
@@ -54,12 +54,12 @@
 	<div id='my_room_container'>
 		<div id='my_room'>My room: - </div>
 		<div id='new_room'>
-			<form id="createRoom" action="" method="get">
+			<form id="createRoom" action="javascript:formSubmit()" onsubmit="formSubmit()" method="get" target='_self'>
+				<input id="newRoomName" class="g-button" type="text" size="30" placeholder="Type room name" autofocus="autofocus">
 				
-				<input id="sessionInput" placeholder="Type room name" autofocus="autofocus"/>
-				<input type="button" onclick="formSubmit()" value="Let’s go!">
-
+				
 			</form>
+			
 		</div>
 	</div>
 	<div id='left'>

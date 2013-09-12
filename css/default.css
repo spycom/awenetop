@@ -48,7 +48,7 @@ a:hover {
 #my_room_container{
   margin: auto;
   width:90%;
-  padding: 10px;
+  height: 35px;
   padding-left: 30px;
   font-family: Verdana;
   font-size:18pt;
@@ -73,7 +73,8 @@ a:hover {
 
 }
 #my_room {
-  float:left;
+  width:50%;
+  float: left; 
 }
 #left {
   height: 100%;
@@ -117,9 +118,34 @@ a:hover {
     -webkit-filter: drop-shadow(2px 2px 5px gray);
     -moz-filter: drop-shadow(2px 2px 5px gray);
 }
-new_room {
-  float:right;
-  
+#new_room {
+  float: right;
+  margin-right: 20px;
+}
+input[type=text].g-button {
+border:1px solid;//граница
+font-size: 12px;//шрифт
+padding: 5px 10px;//отступы, если необходимо
+-webkit-border-radius: 6px;//скругляем углы
+-moz-border-radius: 6px;
+border-radius: 6px;
+border-color:rgba(25,255,25,.75);
+box-shadow:0 0 8px rgba(25,255,25,.5);//описываем тень
+-moz-box-shadow:0 0 8px rgba(25,255,25,.5);
+-webkit-box-shadow:0 0 8px rgba(25,255,25,.5);
+transition:border linear .2s,box-shadow linear .2s;//время смены цвета тени
+-moz-transition:border linear .2s,-moz-box-shadow linear .2s;
+-webkit-transition:border linear .2s,-webkit-box-shadow linear;}
+
+input[type=text].g-button:focus{ 
+outline:none;//отменяем стандартный прямоугольник
+-webkit-border-radius: 6px;//круглим углы
+-moz-border-radius: 6px;
+border-radius: 6px;
+border-color:rgba(25,25,255,.75);//меняем цвет
+box-shadow:0 0 8px rgba(25,25,255,.5);
+-moz-box-shadow:0 0 8px rgba(25,25,255,.5);
+-webkit-box-shadow:0 0 8px rgba(25,25,255,.5);
 }
 sessionInput {
   float:right;
