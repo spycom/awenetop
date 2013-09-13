@@ -61,15 +61,7 @@ a:hover {
   border-radius: 0 0 10px 10px;
     -moz-border-radius: 0 0 10px 10px;
     -webkit-border-radius: 0 0 10px 10px;
-  background: rgb(197,222,234); /* Old browsers */
-  background: -moz-linear-gradient(top,  rgba(197,222,234,1) 0%, rgba(138,187,215,1) 31%, rgba(6,109,171,1) 100%); /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(197,222,234,1)), color-stop(31%,rgba(138,187,215,1)), color-stop(100%,rgba(6,109,171,1))); /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(top,  rgba(197,222,234,1) 0%,rgba(138,187,215,1) 31%,rgba(6,109,171,1) 100%); /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(top,  rgba(197,222,234,1) 0%,rgba(138,187,215,1) 31%,rgba(6,109,171,1) 100%); /* Opera 11.10+ */
-  background: -ms-linear-gradient(top,  rgba(197,222,234,1) 0%,rgba(138,187,215,1) 31%,rgba(6,109,171,1) 100%); /* IE10+ */
-  background: linear-gradient(to bottom,  rgba(197,222,234,1) 0%,rgba(138,187,215,1) 31%,rgba(6,109,171,1) 100%); /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c5deea', endColorstr='#066dab',GradientType=0 ); /* IE6-9 */
-
+  
 
 }
 #my_room {
@@ -123,16 +115,18 @@ a:hover {
   margin-right: 20px;
 }
 input[type=text].g-button {
+height: 20px;
 border:1px solid;//граница
 font-size: 12px;//шрифт
 padding: 5px 10px;//отступы, если необходимо
+
 -webkit-border-radius: 6px;//скругляем углы
 -moz-border-radius: 6px;
 border-radius: 6px;
-border-color:rgba(25,255,25,.75);
-box-shadow:0 0 8px rgba(25,255,25,.5);//описываем тень
--moz-box-shadow:0 0 8px rgba(25,255,25,.5);
--webkit-box-shadow:0 0 8px rgba(25,255,25,.5);
+border-color:rgba(0,0,0,.45);
+box-shadow:0 0 8px rgba(255,255,255,.5);//описываем тень
+-moz-box-shadow:0 0 8px rgba(255,255,255,.5);
+-webkit-box-shadow:0 0 8px rgba(255,255,255,.5);
 transition:border linear .2s,box-shadow linear .2s;//время смены цвета тени
 -moz-transition:border linear .2s,-moz-box-shadow linear .2s;
 -webkit-transition:border linear .2s,-webkit-box-shadow linear;}
@@ -142,10 +136,10 @@ outline:none;//отменяем стандартный прямоугольни�
 -webkit-border-radius: 6px;//круглим углы
 -moz-border-radius: 6px;
 border-radius: 6px;
-border-color:rgba(25,25,255,.75);//меняем цвет
-box-shadow:0 0 8px rgba(25,25,255,.5);
--moz-box-shadow:0 0 8px rgba(25,25,255,.5);
--webkit-box-shadow:0 0 8px rgba(25,25,255,.5);
+border-color:rgba(25,255,25,.45);//меняем цвет
+box-shadow:0 0 8px rgba(25,255,25,.5);
+-moz-box-shadow:0 0 8px rgba(25,255,25,.5);
+-webkit-box-shadow:0 0 8px rgba(25,255,25,.5);
 }
 sessionInput {
   float:right;
