@@ -115,10 +115,12 @@ a:hover {
   margin-right: 20px;
 }
 input[type=text].g-button {
-height: 20px;
+height: 10px;
+width: 150px;
 border:1px solid;//граница
 font-size: 12px;//шрифт
-padding: 5px 10px;//отступы, если необходимо
+overflow:visible; 
+padding:5px;
 
 -webkit-border-radius: 6px;//скругляем углы
 -moz-border-radius: 6px;
@@ -129,7 +131,8 @@ box-shadow:0 0 8px rgba(255,255,255,.5);//описываем тень
 -webkit-box-shadow:0 0 8px rgba(255,255,255,.5);
 transition:border linear .2s,box-shadow linear .2s;//время смены цвета тени
 -moz-transition:border linear .2s,-moz-box-shadow linear .2s;
--webkit-transition:border linear .2s,-webkit-box-shadow linear;}
+-webkit-transition:border linear .2s,-webkit-box-shadow linear;
+}
 
 input[type=text].g-button:focus{ 
 outline:none;//отменяем стандартный прямоугольник
@@ -140,6 +143,13 @@ border-color:rgba(25,255,25,.45);//меняем цвет
 box-shadow:0 0 8px rgba(25,255,25,.5);
 -moz-box-shadow:0 0 8px rgba(25,255,25,.5);
 -webkit-box-shadow:0 0 8px rgba(25,255,25,.5);
+  -webkit-animation-name: testAnim;
+  -webkit-animation-duration: 200ms;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-direction: alternate;
+  -webkit-animation-timing-function: ease-out;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-delay: 0s;
 }
 sessionInput {
   float:right;
