@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/bin/nohup /usr/bin/node server.js > output.log &
+/usr/bin/nohup /usr/bin/nodejs server.js > output.log &

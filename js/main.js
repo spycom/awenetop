@@ -223,6 +223,7 @@ function handleUserMedia(stream) {
 
 function handleUserMediaError(error){
   console.log('navigator.getUserMedia error: ', error);
+  warning.innerHTML = 'Please allow your web browser to check out camera and location.';
 }
 
 var constraints = {audio: true, video: true};
